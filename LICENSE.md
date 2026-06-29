@@ -1,4 +1,4 @@
-# 
+# 免费 AI Fake News Detector 扩展。集成 模型训练 和 实时处理，性能最大化。
 
 
 
